@@ -34,6 +34,35 @@ $ romara mcmxcix
 1999
 ```
 
+## Installation Guide
+
+Follow the instructions below to install and uninstall the program.
+
+### Installation
+
+1. **Open a terminal.**
+2. **Navigate to the `romara-numeral` folder:**
+   ```
+   cd romara-numeral
+   ```
+3. **Make the install script executable:**
+   ```
+   chmod +x install.sh
+   ```
+4. **Run the install script:**
+   ```
+   ./install.sh
+   ```
+   This will install the program.
+
+### Uninstallation
+
+To remove the program, follow the same steps as the `install.sh` file but for the `uninstall.sh` file instead; run the uninstall script from the folder:
+```
+./uninstall.sh
+```
+This will clean up installed files.
+
 ## Notes
 
 - Input is case-insensitive (`XXV`, `xxv`, and `XxV` all work).
