@@ -10,7 +10,7 @@ Romara Numeral is a simple terminal application written in Bash. It allows users
 
 ## Usage
 
-Simply type `romara` in your terminal followed by a Roman numeral string:
+Simply type `romara` in your terminal followed by a Roman numeral string, for example:
 
 ```bash
 romara xxv
